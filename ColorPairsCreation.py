@@ -1,4 +1,4 @@
-import Colorpairs_get_index as cpi
+import ColorPairsGetindex as cpi
 
 def color_pair_to_string(major_color, minor_color):
   return f'{major_color} {minor_color}'
