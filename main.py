@@ -1,4 +1,4 @@
-import Colorpairs_Unittests as cput
+import ColorPairsUnittests as cput
 if __name__ == '__main__':
   cput.test_number_to_pair(4, 'White', 'Brown')
   cput.test_number_to_pair(5, 'White', 'Slate')
